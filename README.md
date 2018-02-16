@@ -1,2 +1,1 @@
-# folder_organizer
-# folder_organizer
+#This script will move your files to folder according  to extension name
